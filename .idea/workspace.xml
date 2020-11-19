@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main/Python_If_Else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +134,7 @@
       <workItem from="1605685084619" duration="920000" />
       <workItem from="1605686057988" duration="556000" />
       <workItem from="1605749540046" duration="48000" />
-      <workItem from="1605776853368" duration="1190000" />
+      <workItem from="1605776853368" duration="1438000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1605686342368</created>
@@ -153,16 +150,138 @@
       <option name="project" value="LOCAL" />
       <updated>1605686368131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python_If_Else.py">
+      <created>1605781036702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781036702</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo">
+      <created>1605781055277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781055277</updated>
+    </task>
+    <task id="LOCAL-00005" summary="01_variables">
+      <created>1605781073049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781073049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="02_string_formatting">
+      <created>1605781088714</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781088714</updated>
+    </task>
+    <task id="LOCAL-00007" summary="03_getting_user_input">
+      <created>1605781099289</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781099289</updated>
+    </task>
+    <task id="LOCAL-00008" summary="04_first_python_app">
+      <created>1605781107610</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781107610</updated>
+    </task>
+    <task id="LOCAL-00009" summary="05_lists_tuples_sets">
+      <created>1605781118668</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781118668</updated>
+    </task>
+    <task id="LOCAL-00010" summary="06_advanced_set_operations">
+      <created>1605781138365</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781138365</updated>
+    </task>
+    <task id="LOCAL-00011" summary="07_booleans">
+      <created>1605781147635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781147635</updated>
+    </task>
+    <task id="LOCAL-00012" summary="08_if_statements">
+      <created>1605781156225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781156225</updated>
+    </task>
+    <task id="LOCAL-00013" summary="08_if_statements">
+      <created>1605781163869</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781163869</updated>
+    </task>
+    <task id="LOCAL-00014" summary="10_if_with_in">
+      <created>1605781228557</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781228557</updated>
+    </task>
+    <task id="LOCAL-00015" summary="11_loops">
+      <created>1605781237144</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781237144</updated>
+    </task>
+    <task id="LOCAL-00016" summary="12_list_comprehension">
+      <created>1605781248034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781248034</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor" />
     <MESSAGE value="Say_Hello_World_With_Python.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Say_Hello_World_With_Python.py" />
+    <MESSAGE value="Python_If_Else.py" />
+    <MESSAGE value="demo" />
+    <MESSAGE value="01_variables" />
+    <MESSAGE value="02_string_formatting" />
+    <MESSAGE value="03_getting_user_input" />
+    <MESSAGE value="04_first_python_app" />
+    <MESSAGE value="05_lists_tuples_sets" />
+    <MESSAGE value="06_advanced_set_operations" />
+    <MESSAGE value="07_booleans" />
+    <MESSAGE value="09_the_in_keyword" />
+    <MESSAGE value="10_if_with_in" />
+    <MESSAGE value="11_loops" />
+    <MESSAGE value="12_list_comprehension" />
+    <option name="LAST_COMMIT_MESSAGE" value="12_list_comprehension" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1605685847602">
