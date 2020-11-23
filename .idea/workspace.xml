@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +154,7 @@
       <workItem from="1605749540046" duration="48000" />
       <workItem from="1605776853368" duration="2029000" />
       <workItem from="1606098098150" duration="2791000" />
-      <workItem from="1606103926533" duration="780000" />
+      <workItem from="1606103926533" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1605686342368</created>
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605781716239</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="20_dictionary_comprehensions">
+      <created>1606104921643</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606104921643</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +372,8 @@
     <MESSAGE value="18_functions_returning_values" />
     <MESSAGE value="19_lambda_functions" />
     <MESSAGE value="Python_If_Else.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python_If_Else.py" />
+    <MESSAGE value="20_dictionary_comprehensions" />
+    <option name="LAST_COMMIT_MESSAGE" value="20_dictionary_comprehensions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1605685847602">
@@ -378,10 +384,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="106" key="#Say_Hello_World_With_Python/0.0.1920.1040@0.0.1920.1040" timestamp="1606103209360" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605781714961">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1606104920773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605781714961" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606104920773" />
     <state x="810" y="419" key="GitRewordDialog" timestamp="1605781217383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
