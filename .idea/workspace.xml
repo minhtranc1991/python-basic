@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="19_lambda_functions">
-      <change beforePath="$PROJECT_DIR$/main/Python_If_Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Python_If_Else.py" afterDir="false" />
+    <list default="true" id="2ec8f484-4a5c-47ef-ab5f-c0b967dcf943" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +154,9 @@
       <workItem from="1605685084619" duration="920000" />
       <workItem from="1605686057988" duration="556000" />
       <workItem from="1605749540046" duration="48000" />
-      <workItem from="1605776853368" duration="1875000" />
+      <workItem from="1605776853368" duration="2029000" />
+      <workItem from="1606098098150" duration="2791000" />
+      <workItem from="1606103926533" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1605686342368</created>
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605781328025</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Python_If_Else.py">
+      <created>1605781716239</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781716239</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,11 +342,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor" />
     <MESSAGE value="Say_Hello_World_With_Python.py" />
-    <MESSAGE value="Python_If_Else.py" />
     <MESSAGE value="demo" />
     <MESSAGE value="01_variables" />
     <MESSAGE value="02_string_formatting" />
@@ -357,17 +366,22 @@
     <MESSAGE value="17_default_parameter_values" />
     <MESSAGE value="18_functions_returning_values" />
     <MESSAGE value="19_lambda_functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="19_lambda_functions" />
+    <MESSAGE value="Python_If_Else.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_If_Else.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1605685847602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605685847602" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605781348932">
+    <state x="669" y="106" key="#Say_Hello_World_With_Python" timestamp="1606103209360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605781348932" />
+    <state x="669" y="106" key="#Say_Hello_World_With_Python/0.0.1920.1040@0.0.1920.1040" timestamp="1606103209360" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605781714961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605781714961" />
     <state x="810" y="419" key="GitRewordDialog" timestamp="1605781217383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -392,10 +406,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="783" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605686322130" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605781353547">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605781718501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605781353547" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605781718501" />
     <state x="505" y="127" key="new project wizard" timestamp="1605686140102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
